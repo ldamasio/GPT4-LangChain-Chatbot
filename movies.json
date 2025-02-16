@@ -1,0 +1,28 @@
+{
+    "movies": [
+        {
+            "title": "A Origem",
+            "year": 2010,
+            "genres": ["Ação", "Ficção Científica", "Aventura"],
+            "rating": 8.8,
+            "director": "Christopher Nolan",
+            "description": "Um ladrão com a rara habilidade de extrair informações valiosas da mente das pessoas durante o estado de sono recebe uma última missão."
+        },
+        {
+            "title": "Interestelar",
+            "year": 2014,
+            "genres": ["Ficção Científica", "Drama", "Aventura"],
+            "rating": 8.6,
+            "director": "Christopher Nolan",
+            "description": "Uma equipe de exploradores viaja através de um buraco de minhoca no espaço em busca de um novo lar para a humanidade."
+        },
+        {
+            "title": "Pulp Fiction",
+            "year": 1994,
+            "genres": ["Crime", "Drama"],
+            "rating": 8.9,
+            "director": "Quentin Tarantino",
+            "description": "As vidas de dois assassinos, um boxeador, um gângster e sua esposa se entrelaçam em quatro histórias de violência e redenção."
+        }
+    ]
+}
