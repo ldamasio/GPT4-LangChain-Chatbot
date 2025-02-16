@@ -5,6 +5,7 @@ from langchain.memory import ConversationBufferMemory
 from langchain.prompts import PromptTemplate
 from config import OPENAI_API_KEY, MODEL_NAME, TEMPERATURE, MAX_TOKENS
 from movie_database import MovieDatabase
+from typing import List
 
 class MovieRecommenderChatbot:
     """Chatbot especializado em recomendação de filmes usando GPT-4 e LangChain"""
